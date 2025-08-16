@@ -191,36 +191,6 @@
   </nav>
 
 
-
-
-
-
-
-
-
-
-
-
-  
- 
-  <!-- <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasSidebar" aria-labelledby="offcanvasSidebarLabel">
-    <div class="offcanvas-header">
-      <h5 class="offcanvas-title ms-auto" id="offcanvasSidebarLabel"><div><i class='bx bx-user-circle'></i></div></h5>
-      <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-    </div>
-    <div class="offcanvas-body">
-      <ul class="list-group">
-        <li class="list-group-item"><a href="Login.php" class="btn btn-outline-primary w-100">
-          Log In
-        </a></li>
-        <li class="list-group-item"><a href="Register.php" class="btn btn-outline-primary w-100">
-          Sign Up
-        </a></li>
-
-      </ul>
-    </div>
-  </div> -->
-
   <?php
 include 'config.php';
 
